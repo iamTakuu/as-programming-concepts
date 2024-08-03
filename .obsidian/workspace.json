@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f8f1e5d660cafa51",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7491fffcab1a656f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "343b8d1405d6e418",
         "type": "tabs",
         "children": [
@@ -43,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction/Index.md",
+                "file": "Introduction/The Why-.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Introduction/The Why-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Introduction/The Why-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Introduction/The Why-.md"
               }
             }
           }
@@ -177,11 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7491fffcab1a656f",
+  "active": "5410f38659bf650e",
   "lastOpenFiles": [
+    "img",
+    "img/girlboss.jpg",
+    "Introduction/The Why-.md",
+    "Concepts/Errors.md",
+    "Concepts/Functions and Procedures.md",
+    "Concepts/Program Design.md",
     "Introduction/Index.md",
     "Readme.md",
-    "Introduction/The Why-.md",
     "Concepts/Conditionals.md",
     "Introduction",
     "Concepts",
