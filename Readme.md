@@ -16,6 +16,6 @@ I just git commit lol.
 - Clone this repo or download the .zip
 - [Open the vault](https://help.obsidian.md/Files+and+folders/Manage+vaults) and proceed with the rest.
 
-Anyway to get started, go down to [[The Why-]]. I will also include an [[Index]] you can take a peep at.
+Anyway to get started, go down to [[Programming 101]]. I will also include an [[Index]] you can take a peep at.
 
 Good luck, I wrote my A Levels in 2020, and it's interesting to see how much the syllabus continues to evolve.

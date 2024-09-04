@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "343b8d1405d6e418",
+        "id": "d7085983c77294c4",
         "type": "tabs",
         "children": [
           {
-            "id": "49d4011ec56db564",
+            "id": "f7d0b8f69f137e74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction/The Why-.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f237d924177d876",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction/The Why-.md",
+                "file": "Introduction/Programming 101.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction/The Why-.md",
+                "file": "Introduction/Programming 101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction/The Why-.md",
+                "file": "Introduction/Programming 101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction/The Why-.md"
+                "file": "Introduction/Programming 101.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,20 +147,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5410f38659bf650e",
+  "active": "f7d0b8f69f137e74",
   "lastOpenFiles": [
+    "Readme.md",
+    "Concepts/Functions and Procedures.md",
+    "Concepts/Conditionals.md",
+    "Introduction/Programming 101.md",
+    "Introduction/Index.md",
+    "Concepts/Variables.md",
+    "Concepts/Program Design.md",
+    "Concepts/Errors.md",
+    "Concepts/Constants.md",
+    "Untitled.canvas",
+    "Case Statement.md",
+    "img/yandare-if.png",
+    "If Statements.md",
+    "img/condition.png",
+    "condition..md",
     "img",
     "img/girlboss.jpg",
-    "Introduction/The Why-.md",
-    "Concepts/Errors.md",
-    "Concepts/Functions and Procedures.md",
-    "Concepts/Program Design.md",
-    "Introduction/Index.md",
-    "Readme.md",
-    "Concepts/Conditionals.md",
     "Introduction",
-    "Concepts",
-    "Concepts/Variables.md",
-    "Concepts/Constants.md"
+    "Concepts"
   ]
 }
